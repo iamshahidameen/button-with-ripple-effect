@@ -1,0 +1,1 @@
+alert("Ripple, World!");
